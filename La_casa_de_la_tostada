@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa de la Tostada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <div class="logo">Casa de la Tostada</div>
+        <nav>
+            <a href="#home">Inicio</a>
+            <a href="#menu">Menú</a>
+            <a href="#about">Sobre Nosotros</a>
+            <a href="#impact">Nuestro Impacto</a>
+            <a href="#contact">Contacto</a>
+        </nav>
+    </header>
+
+    <!-- Sección de Inicio -->
+    <section id="home" class="hero">
+        <h1>Disfruta de Tostadas Frescas y Deliciosas</h1>
+        <p>Hechas para ti con impacto social, económico y ambiental.</p>
+        <a href="#menu" class="btn">Haz tu pedido</a>
+    </section>
+
+    <!-- Sección de Menú -->
+    <section id="menu" class="menu">
+        <h2>Menú</h2>
+        <div class="menu-items">
+            <div class="item">
+                <img src="tostada1.jpg" alt="Tostada Clásica">
+                <h3>Tostada Clásica</h3>
+                <p>Ingredientes frescos, un sabor que no te puedes perder.</p>
+                <p><strong>$25.00 MXN</strong></p>
+                <button>Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <img src="tostada2.jpg" alt="Tostada Especial">
+                <h3>Tostada Especial</h3>
+                <p>Una mezcla única de sabores para tu disfrute.</p>
+                <p><strong>$30.00 MXN</strong></p>
+                <button>Agregar al carrito</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Sobre Nosotros -->
+    <section id="about" class="about">
+        <h2>Sobre Nosotros</h2>
+        <p>Casa de la Tostada nació con el propósito de ofrecer snacks deliciosos y responsables. Con cada compra, contribuyes a nuestro impacto positivo en la comunidad.</p>
+        <p><strong>Misión:</strong> Ofrecer tostadas de calidad mientras contribuimos a la comunidad escolar.</p>
+        <p><strong>Visión:</strong> Ser la elección preferida en snacks saludables dentro de la comunidad estudiantil.</p>
+    </section>
+
+    <!-- Sección de Impacto -->
+    <section id="impact" class="impact">
+        <h2>Nuestro Impacto</h2>
+        <div class="impact-cards">
+            <div class="card">
+                <h3>Impacto Social</h3>
+                <p>Apoyamos a nuestra comunidad estudiantil a través de un modelo de negocio inclusivo y responsable.</p>
+            </div>
+            <div class="card">
+                <h3>Impacto Económico</h3>
+                <p>Reinvertimos las ganancias para mejorar nuestro servicio y apoyar la economía local.</p>
+            </div>
+            <div class="card">
+                <h3>Impacto Ambiental</h3>
+                <p>Usamos envases biodegradables y priorizamos ingredientes locales para reducir nuestra huella ecológica.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Contacto -->
+    <section id="contact" class="contact">
+        <h2>Contacto</h2>
+        <form>
+            <label for="name">Nombre</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Correo Electrónico</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Mensaje</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <!-- Pie de Página -->
+    <footer>
+        <p>&copy; 2024 Casa de la Tostada. Todos los derechos reservados.</p>
+        <div class="socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">WhatsApp</a>
+        </div>
+    </footer>
+
+</body>
+</html>
