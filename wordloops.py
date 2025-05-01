@@ -29,7 +29,7 @@ for i in wordList:
     for k in elements:
         new = ''.join(ready)
         if ready:
-            if sys.argv[1] == '-m';
+            if sys.argv[1]:
                 value = f'/r{new}{k}
             else:
                 value = f'{new}{k}'
