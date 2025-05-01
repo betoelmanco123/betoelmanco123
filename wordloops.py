@@ -22,8 +22,13 @@ word = input('Whats the word?:')
 
 wordList=list(word)
 
+ready = []
+
 for i in wordList:
     for k in elements:
-        print(k)
+        new = str(ready)
+        if ready:
+            print(f'{ready}k')
         if k == i:
+            ready.append(k)
             break
