@@ -1,4 +1,4 @@
-import time
+import time, sys
 elements = [
     # Letras minúsculas
     ' ','a','b','c','d','e','f','g','h','i','j','k','l','m',
@@ -29,7 +29,11 @@ for i in wordList:
     for k in elements:
         new = ''.join(ready)
         if ready:
-            print(f'{new}{k}')
+            if sys.argv[1] == '-m';
+                value = f'/r{new}{k}
+            else:
+                value = f'{new}{k}'
+            print(value)
             time.sleep(0.06)
         if k == i:
             ready.append(k)
