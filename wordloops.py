@@ -1,3 +1,4 @@
+import time
 elements = [
     # Letras minúsculas
     'a','b','c','d','e','f','g','h','i','j','k','l','m',
@@ -29,6 +30,7 @@ for i in wordList:
         new = ''.join(ready)
         if ready:
             print(f'{new}{k}')
+            time.sleep(0.15)
         if k == i:
             ready.append(k)
             break
