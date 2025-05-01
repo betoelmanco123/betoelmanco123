@@ -28,7 +28,7 @@ for i in wordList:
     for k in elements:
         new = str(ready)
         if ready:
-            print(f'{ready}k')
+            print(f'{new}{k}')
         if k == i:
             ready.append(k)
             break
