@@ -29,8 +29,11 @@ for i in wordList:
     for k in elements:
         new = ''.join(ready)
         if ready:
-            if sys.argv[1]:
-                value = f'/r{new}{k}'
+            try:
+                if sys.argv[1]:
+                    value = (f'/r{new}{k}',end='')
+            except:
+             
             else:
                 value = f'{new}{k}'
             print(value)
