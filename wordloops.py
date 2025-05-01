@@ -30,7 +30,7 @@ for i in wordList:
         new = ''.join(ready)
         if ready:
             print(f'{new}{k}')
-            time.sleep(0.15)
+            time.sleep(0.06)
         if k == i:
             ready.append(k)
             break
