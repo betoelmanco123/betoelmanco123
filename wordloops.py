@@ -31,7 +31,7 @@ for i in wordList:
         if ready:
             try:
                 if sys.argv[1]:
-                    value = (f'/r{new}{k}',end='')
+                    value = (f'\r{new}{k}',end='')
             except:
              
             else:
