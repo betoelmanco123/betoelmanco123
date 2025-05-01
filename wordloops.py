@@ -26,7 +26,7 @@ ready = []
 
 for i in wordList:
     for k in elements:
-        new = str(ready)
+        new = ''.join(ready)
         if ready:
             print(f'{new}{k}')
         if k == i:
