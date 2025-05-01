@@ -30,7 +30,7 @@ for i in wordList:
         new = ''.join(ready)
         if ready:
             if sys.argv[1]:
-                value = f'/r{new}{k}
+                value = f'/r{new}{k}'
             else:
                 value = f'{new}{k}'
             print(value)
