@@ -33,5 +33,5 @@ for i in wordList:
                 print(f'{new}{k}')
             time.sleep(0.06)
         if k == i.lower():
-            ready.append(k)
+            ready.append(i)
             break
