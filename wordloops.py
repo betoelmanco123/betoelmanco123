@@ -26,7 +26,7 @@ for i in wordList:
         if ready:
             try:
                 if sys.argv[1]  == '-r':
-                    print( f'\r{new}{k}',end='')
+                    print( f'\r{new}{k}\a',end='')
                 else:
                     print(f'{new}{k}')    
             except:
