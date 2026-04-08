@@ -1,8 +1,8 @@
 <h1 align=center>Hi, I’m Roberto Romero</h1>
 
 <p align=center>
-  <a href="mailto:tomiachaval2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://github.com/achaval-tomas"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:robert.es.rom.27@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://github.com/betoelmanco123"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <h2>About Me</h2>
