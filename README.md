@@ -21,6 +21,8 @@
 <a href="https://github.com/betoelmanco123/maze"><img src="https://raw.githubusercontent.com/betoelmanco123/maze/main/media/maze.gif" height="150"/></a>
 <a href="https://github.com/betoelmanco123/superior_algebra_manimations"><img src="https://raw.githubusercontent.com/betoelmanco123/superior_algebra_manimations/main/trailer.gif" height="150"/></a>
 
+<a href="https://github.com/betoelmanco123/raceEXP"><img src="https://raw.githubusercontent.com/betoelmanco123/raceEXP/main/sprites/output.gif" height="150"/></a>
+
 
 <h2>GitHub Stats</h2>
 <a href="https://github.com/stats-organization/github-stats-extended"><img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=betoelmanco123&theme=github_dark&layout=compact&border_color=1E90FF&bg_color=000000&title_color=fc7f03&text_color=ffffff" /></a>
