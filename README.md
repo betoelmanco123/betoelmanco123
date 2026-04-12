@@ -14,7 +14,6 @@
 
 <h2>My Favorite Repos</h2>
 <a href="https://github.com/betoelmanco123/sudoku_generator"><img height="120" align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=betoelmanco123&repo=sudoku_generator&border_color=1E90FF&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=fc7f03/"></a>
-
 <a href="https://github.com/betoelmanco123/raceEXP"><img height="120" align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=betoelmanco123&repo=raceEXP&border_color=1E90FF&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=fc7f03/"></a>
 
 
@@ -22,7 +21,6 @@
 <a href="https://github.com/betoelmanco123/sudoku_generator"><img src="https://raw.githubusercontent.com/betoelmanco123/sudoku_generator/main/media/sudoku_game.gif" height="150"/></a>
 <a href="https://github.com/betoelmanco123/maze"><img src="https://raw.githubusercontent.com/betoelmanco123/maze/main/media/maze.gif" height="150"/></a>
 <a href="https://github.com/betoelmanco123/superior_algebra_manimations"><img src="https://raw.githubusercontent.com/betoelmanco123/superior_algebra_manimations/main/trailer.gif" height="150"/></a>
-
 <a href="https://github.com/betoelmanco123/raceEXP"><img src="https://raw.githubusercontent.com/betoelmanco123/raceEXP/main/sprites/output.gif" height="150"/></a>
 
 
