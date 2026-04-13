@@ -1,5 +1,4 @@
 <h1 align=center>Hi, I’m Roberto Romero</h1>
-
 <p align=center>
   <a href="mailto:robert.es.rom.27@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://github.com/betoelmanco123"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -25,5 +24,7 @@
 
 
 <h2>GitHub Stats</h2>
-<a href="https://github.com/stats-organization/github-stats-extended"><img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=betoelmanco123&theme=github_dark&layout=compact&border_color=1E90FF&bg_color=000000&title_color=fc7f03&text_color=ffffff" /></a>
-<a href="https://github.com/stats-organization/github-stats-extended"><img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=betoelmanco123&theme=github_dark&show_icons=true&border_color=1E90FF&bg_color=000000&title_color=fc7f03&text_color=ffffff" /></a>
+
+
+<a href="https://github.com/stats-organization/github-stats-extended"><img height="180" align="center" src="https://streak-stats.demolab.com?user=betoelmanco123&theme=dark&border_radius=5" /></a>
+
