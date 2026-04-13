@@ -26,5 +26,5 @@
 <h2>GitHub Stats</h2>
 
 
-<a href="https://github.com/stats-organization/github-stats-extended"><img height="180" align="center" src="https://streak-stats.demolab.com?user=betoelmanco123&theme=dark&border_radius=5" /></a>
+<a href="https://github.com/betoelmanco123"><img height="180" align="center" src="https://streak-stats.demolab.com?user=betoelmanco123&theme=dark&border_radius=5&border_color=1E90FF&icon_color=fc7f03" /></a>
 
