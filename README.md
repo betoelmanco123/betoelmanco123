@@ -21,7 +21,7 @@
 <a href="https://github.com/betoelmanco123/maze"><img src="https://raw.githubusercontent.com/betoelmanco123/maze/main/media/maze.gif" height="150"/></a>
 <a href="https://github.com/betoelmanco123/superior_algebra_manimations"><img src="https://raw.githubusercontent.com/betoelmanco123/superior_algebra_manimations/main/trailer.gif" height="150"/></a>
 <a href="https://github.com/betoelmanco123/raceEXP"><img src="https://raw.githubusercontent.com/betoelmanco123/raceEXP/main/sprites/output.gif" height="150"/></a>
-<a href="https://github.com/betoelmanco123/image_recreator"><img src="https://raw.githubusercontent.com/betoelmanco123/image_recreator/main/sprites/evolution.gif" height="150"/></a>
+<a href="https://github.com/betoelmanco123/image_recreator"><img src="https://raw.githubusercontent.com/betoelmanco123/image_recreator/main/sprites/gojo.gif" height="150"/></a>
 
 
 <h2>GitHub Stats</h2>
