@@ -11,11 +11,6 @@
 </p>
 
 
-<h2>My Favorite Repos</h2>
-<a href="https://github.com/betoelmanco123/sudoku_generator"><img height="120" align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=betoelmanco123&repo=sudoku_generator&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=fc7f03/"></a>
-<a href="https://github.com/betoelmanco123/raceEXP"><img height="120" align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=betoelmanco123&repo=raceEXP&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=fc7f03/"></a>
-
-
 <h2>Some of my Projects</h2>
 <a href="https://github.com/betoelmanco123/sudoku_generator"><img src="https://raw.githubusercontent.com/betoelmanco123/sudoku_generator/main/media/sudoku_game.gif" height="150"/></a>
 <a href="https://github.com/betoelmanco123/maze"><img src="https://raw.githubusercontent.com/betoelmanco123/maze/main/media/maze.gif" height="150"/></a>
